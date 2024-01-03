@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edwinglowmax
+- 👋 Hi, I’m @edwinglomax
 - 👀 I’m interested in ...programing!!!
 - 🌱 I’m currently learning ...js,react js
 - 💞️ I’m collaborating with glomax private LTD
